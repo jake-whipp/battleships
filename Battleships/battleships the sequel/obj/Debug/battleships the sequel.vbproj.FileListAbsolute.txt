@@ -1,0 +1,10 @@
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\bin\Debug\battleships the sequel.exe.config
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\bin\Debug\battleships the sequel.exe
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\bin\Debug\battleships the sequel.pdb
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\bin\Debug\battleships the sequel.xml
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships the sequel.vbprojResolveAssemblyReference.cache
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships_the_sequel.Resources.resources
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships the sequel.vbproj.GenerateResource.Cache
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships the sequel.exe
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships the sequel.xml
+c:\users\jake\documents\visual studio 2015\Projects\battleships the sequel\battleships the sequel\obj\Debug\battleships the sequel.pdb
