@@ -66,8 +66,6 @@
         Board.SetupBoard(computer_privateBoard)
         Board.SetupBoard(player_privateBoard)
 
-        Board.DrawBoards(computer_privateBoard, player_privateBoard) ' xray cheat
-        Console.ReadLine()
         attacker = Attack.determineFirstAttacker()
         gameWon = "undetermined"
 
